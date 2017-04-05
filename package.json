@@ -1,0 +1,44 @@
+{
+  "name": "tfk-saksbehandling-minelev-templates",
+  "version": "1.0.0",
+  "description": "Templates for the MinElev ecosystem",
+  "license": "MIT",
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.8.1"
+  },
+  "scripts": {
+    "test": "standard && nsp check && ava",
+    "test-offline": "standard && ava",
+    "coverage": "nyc ava",
+    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
+    "standard-fix": "standard --fix"
+  },
+  "keywords": [
+    "Tfk",
+    "Telemark fylkeskommune",
+    "Saksbehandling",
+    "Varselbrev elever",
+    "Maler"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/telemark/tfk-saksbehandling-minelev-templates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/telemark/tfk-saksbehandling-minelev-templates/issues"
+  },
+  "homepage": "https://github.com/telemark/tfk-saksbehandling-minelev-templates",
+  "devDependencies": {
+    "ava": "0.18.2",
+    "coveralls": "2.13.0",
+    "nsp": "2.6.3",
+    "nyc": "10.2.0",
+    "standard": "10.0.0"
+  }
+}
