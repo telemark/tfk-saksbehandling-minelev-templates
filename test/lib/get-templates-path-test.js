@@ -2,9 +2,10 @@
 
 const test = require('ava')
 const getTemplatePath = require('../../index')
+const templates = require('../../templates/templates.json')
 
 test('It returns path if template exists', t => {
-  t.truthy(getTemplatePath('orden'))
+  Object.keys(templates).forEach(template => t.truthy(getTemplatePath(template)))
 })
 
 test('Requires input', t => {
