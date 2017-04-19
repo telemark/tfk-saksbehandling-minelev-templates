@@ -84,8 +84,4 @@ Koder som benyttes:
 
 # Maler - Elevsamtaler
 
-## Undervegsvurdering
-
-## Utviklingssamtale
-
-## Annet
+## Samtale

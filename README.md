@@ -27,9 +27,7 @@ Oversikt over alle malene og koder for de ulike ligger [her](docs/templates.md)
  - foresatte
  - hemmelig-adresse
  - orden
- - utvikling
- - undervegs
- - annen
+ - samtale
  
  ```javascript
  'use strict'
