@@ -28,6 +28,7 @@ Oversikt over alle malene og koder for de ulike ligger [her](docs/templates.md)
  - hemmelig-adresse
  - orden
  - samtale
+ - ikke-samtale
  
  ```javascript
  'use strict'

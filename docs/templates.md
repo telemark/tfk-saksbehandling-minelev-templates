@@ -84,4 +84,29 @@ Koder som benyttes:
 
 # Maler - Elevsamtaler
 
+Maler for å dokumentere avholdt samtale eller avslått tilbud om samtale
+
 ## Samtale
+Denne malen benyttes for å dokumentere avholdt samtale
+
+Koder som benyttes:
+
+- ```{dato}``` Dato for produksjon av dokumentet på formatet dd.mm.åååå
+- ```{datoSamtale}``` Dato gjennomført samtale på formatet dd.mm.åååå
+- ```{navnElev}``` Elevens fulle navn
+- ```{navnAvsender}``` Navn på den som har avholdt samtalen
+- ```{innholdSamtale}``` Samtalens innhold
+- ```{navnSkole}``` Skolen eleven går på
+
+
+## Ikke samtale
+Denne malen benyttes for å dokumentere at tilbudt samtale ikke er mottat
+
+Koder som benyttes:
+
+- ```{dato}``` Dato for produksjon av dokumentet på formatet dd.mm.åååå
+- ```{datoSamtale}``` Dato gjennomført samtale på formatet dd.mm.åååå
+- ```{navnElev}``` Elevens fulle navn
+- ```{navnAvsender}``` Navn på den som har avholdt samtalen
+- ```{navnSkole}``` Skolen eleven går på
+
