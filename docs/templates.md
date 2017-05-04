@@ -109,4 +109,4 @@ Koder som benyttes:
 - ```{navnElev}``` Elevens fulle navn
 - ```{navnAvsender}``` Navn på den som har avholdt samtalen
 - ```{navnSkole}``` Skolen eleven går på
-
+- ```{tlfSkole}``` Skolens telefonnummer
