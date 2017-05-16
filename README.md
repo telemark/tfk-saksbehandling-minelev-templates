@@ -20,6 +20,7 @@ Oversikt over alle malene og koder for de ulike ligger [her](docs/templates.md)
  ## Bruk
  
  Send inn id på malen du skal benytte og få fullstendig filbane i retur.
+ Send inn id på malen du skal benytte og meta=true og få metadata i retur
  
  Maler
  - atferd
@@ -30,7 +31,7 @@ Oversikt over alle malene og koder for de ulike ligger [her](docs/templates.md)
  - samtale
  - ikke-samtale
  
- ```javascript
+ ```JavaScript
  'use strict'
  
  const getTemplatePath = require('tfk-saksbehandling-minelev-templates')
@@ -39,6 +40,30 @@ Oversikt over alle malene og koder for de ulike ligger [her](docs/templates.md)
  
  //=> path/to/template/orden.docx
  ```
+ 
+ ```JavaScript
+  'use strict'
+  
+  const getTemplateMeta = require('tfk-saksbehandling-minelev-templates')
+  
+  console.log(getTemplateMeta('orden', true))
+  ```
+ 
+ Returns
+ 
+ ```JavaScript
+   {
+       "file": "orden.docx",
+       "archive": {
+         "Category": "Dokument ut",
+         "SignOff": true,
+         "AccessCode": "13",
+         "Paragraph": "Offl §13 jfr Fvl §13.1",
+         "NoarkClassificationCode": "B31",
+         "Status": "J"
+       }
+   }
+   ```
  
  ## Lisens
  

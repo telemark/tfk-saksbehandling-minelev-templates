@@ -1,20 +1,18 @@
 'use strict'
 
-var path = require('path')
-var templates = require('./templates/templates.json')
+const path = require('path')
+const templates = require('./templates/templates.json')
 
-function getTemplatePath (id) {
+module.exports = (id, meta) => {
   if (!id) {
     throw new Error('Missing required input: template id')
   }
 
-  var doc = templates[id]
+  const doc = templates[id]
 
   if (!doc) {
     throw new Error('Template not found')
   } else {
-    return path.join(__dirname, 'templates', doc)
+    return meta ? doc : path.join(__dirname, 'templates', doc.file)
   }
 }
-
-module.exports = getTemplatePath

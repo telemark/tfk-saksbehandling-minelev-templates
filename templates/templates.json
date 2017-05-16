@@ -1,9 +1,79 @@
 {
-  "atferd": "atferd.docx",
-  "fag": "fag.docx",
-  "foresatte": "foresatte.docx",
-  "hemmelig-adresse": "hemmelig-adresse.docx",
-  "orden": "orden.docx",
-  "ikke-samtale": "ikke-samtale.docx",
-  "samtale": "samtale.docx"
+  "atferd": {
+    "file": "atferd.docx",
+    "archive": {
+      "Category": "Dokument ut",
+      "SignOff": true,
+      "AccessCode": "13",
+      "Paragraph": "Offl §13 jfr Fvl §13.1",
+      "NoarkClassificationCode": "B31",
+      "Status": "J"
+    }
+  },
+  "fag": {
+    "file": "fag.docx",
+    "archive": {
+      "Category": "Dokument ut",
+      "SignOff": true,
+      "AccessCode": "13",
+      "Paragraph": "Offl §13 jfr Fvl §13.1",
+      "NoarkClassificationCode": "B31",
+      "Status": "J"
+    }
+  },
+  "foresatte": {
+    "file": "foresatte.docx",
+    "archive": {
+      "Category": "Internt notat e-post MED oppfølging (N)",
+      "SignOff": false,
+      "AccessCode": "13",
+      "Paragraph": "Offl §13 jfr Fvl §13.1",
+      "NoarkClassificationCode": "B31",
+      "Status": "F"
+    }
+  },
+  "hemmelig-adresse": {
+    "file": "hemmelig-adresse.docx",
+    "archive": {
+      "Category": "Internt notat e-post MED oppfølging (N)",
+      "SignOff": false,
+      "AccessCode": "13",
+      "Paragraph": "Offl §13 jfr Fvl §13.1",
+      "NoarkClassificationCode": "B31",
+      "Status": "F"
+    }
+  },
+  "orden": {
+    "file": "orden.docx",
+    "archive": {
+      "Category": "Dokument ut",
+      "SignOff": true,
+      "AccessCode": "13",
+      "Paragraph": "Offl §13 jfr Fvl §13.1",
+      "NoarkClassificationCode": "B31",
+      "Status": "J"
+    }
+  },
+  "ikke-samtale": {
+    "file": "ikke-samtale.docx",
+    "archive": {
+      "Category": "Dokument ut",
+      "SignOff": true,
+      "AccessCode": "13",
+      "Paragraph": "Offl §13 jfr Fvl §13.1",
+      "NoarkClassificationCode": "B31",
+      "Status": "J"
+    }
+  },
+  "samtale": {
+    "file": "samtale.docx",
+    "archive": {
+      "Category": "Internt notat e-post UTEN oppfølging (X)",
+      "SignOff": true,
+      "AccessCode": "13",
+      "Paragraph": "Offl §13 jfr Fvl §13.1",
+      "NoarkClassificationCode": "B31",
+      "Status": "J"
+    }
+  }
 }
