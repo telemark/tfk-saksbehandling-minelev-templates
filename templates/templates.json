@@ -65,6 +65,17 @@
       "Status": "J"
     }
   },
+  "hemmelig-adresse-ikke-samtale": {
+    "file": "hemmelig-adresse-ikke-samtale.docx",
+    "archive": {
+      "Category": "Internt notat e-post MED oppfølging (N)",
+      "SignOff": false,
+      "AccessCode": "13",
+      "Paragraph": "Offl §13 jfr Fvl §13.1",
+      "NoarkClassificationCode": "B31",
+      "Status": "F"
+    }
+  },
   "samtale": {
     "file": "samtale.docx",
     "archive": {
