@@ -84,7 +84,8 @@ Koder som benyttes:
 
 # Maler - Elevsamtaler
 
-Maler for å dokumentere avholdt samtale eller avslått tilbud om samtale
+Maler for å dokumentere avholdt samtale eller avslått tilbud om samtale.
+I tillegg et internt notat som benyttes ved hemmelig adresse
 
 ## Samtale
 Denne malen benyttes for å dokumentere avholdt samtale
@@ -95,7 +96,6 @@ Koder som benyttes:
 - ```{datoSamtale}``` Dato gjennomført samtale på formatet dd.mm.åååå
 - ```{navnElev}``` Elevens fulle navn
 - ```{navnAvsender}``` Navn på den som har avholdt samtalen
-- ```{innholdSamtale}``` Samtalens innhold
 - ```{navnSkole}``` Skolen eleven går på
 
 
@@ -110,3 +110,7 @@ Koder som benyttes:
 - ```{navnAvsender}``` Navn på den som har avholdt samtalen
 - ```{navnSkole}``` Skolen eleven går på
 - ```{tlfSkole}``` Skolens telefonnummer
+
+## Hemmelig adresse ikke samtale
+Internt notat ang manuell distribusjon av kvittering for avslått samtale
+
