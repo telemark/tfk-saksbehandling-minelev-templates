@@ -24,7 +24,7 @@
   "foresatte": {
     "file": "foresatte.docx",
     "archive": {
-      "Category": "Internt notat e-post MED oppfølging (N)",
+      "Category": "Internt notat / e-post MED oppfølging (N)",
       "SignOff": false,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
@@ -35,7 +35,7 @@
   "hemmelig-adresse": {
     "file": "hemmelig-adresse.docx",
     "archive": {
-      "Category": "Internt notat e-post MED oppfølging (N)",
+      "Category": "Internt notat / e-post MED oppfølging (N)",
       "SignOff": false,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
@@ -68,7 +68,7 @@
   "hemmelig-adresse-ikke-samtale": {
     "file": "hemmelig-adresse-ikke-samtale.docx",
     "archive": {
-      "Category": "Internt notat e-post MED oppfølging (N)",
+      "Category": "Internt notat / e-post MED oppfølging (N)",
       "SignOff": false,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
@@ -79,7 +79,7 @@
   "samtale": {
     "file": "samtale.docx",
     "archive": {
-      "Category": "Internt notat e-post UTEN oppfølging (X)",
+      "Category": "Internt notat / e-post UTEN oppfølging (X)",
       "SignOff": true,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
