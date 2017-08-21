@@ -3,7 +3,7 @@
     "file": "atferd.docx",
     "archive": {
       "Category": "Dokument ut",
-      "SignOff": true,
+      "SignOff": false,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
       "NoarkClassificationCode": "B31",
@@ -14,7 +14,7 @@
     "file": "fag.docx",
     "archive": {
       "Category": "Dokument ut",
-      "SignOff": true,
+      "SignOff": false,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
       "NoarkClassificationCode": "B31",
@@ -47,7 +47,7 @@
     "file": "orden.docx",
     "archive": {
       "Category": "Dokument ut",
-      "SignOff": true,
+      "SignOff": false,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
       "NoarkClassificationCode": "B31",
@@ -58,7 +58,7 @@
     "file": "ikke-samtale.docx",
     "archive": {
       "Category": "Dokument ut",
-      "SignOff": true,
+      "SignOff": false,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
       "NoarkClassificationCode": "B31",
@@ -80,7 +80,7 @@
     "file": "samtale.docx",
     "archive": {
       "Category": "Internt notat e-post UTEN oppfølging (X)",
-      "SignOff": true,
+      "SignOff": false,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
       "NoarkClassificationCode": "B31",
