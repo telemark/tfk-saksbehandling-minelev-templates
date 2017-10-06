@@ -8,7 +8,7 @@ const expectedMeta = {
   file: 'orden.docx',
   archive: {
     Category: 'Dokument ut',
-    SignOff: true,
+    SignOff: false,
     AccessCode: '13',
     Paragraph: 'Offl §13 jfr Fvl §13.1',
     NoarkClassificationCode: 'B31',

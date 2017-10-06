@@ -114,3 +114,39 @@ Koder som benyttes:
 ## Hemmelig adresse ikke samtale
 Internt notat ang manuell distribusjon av kvittering for avslått samtale
 
+# Maler - YFF
+
+Maler for ulike skjemaer tilknyttet YFF.
+
+## Informasjonsskriv
+Denne malen benyttes for å dokumentere avtale mellom bedrift, skole og elev
+
+Koder som benyttes:
+
+- ```{dato}``` Dato for produksjon av dokumentet på formatet dd.mm.åååå
+- ```{datoSamtale}``` Dato gjennomført samtale på formatet dd.mm.åååå
+- ```{navnElev}``` Elevens fulle navn
+- ```{navnAvsender}``` Navn på den som har avholdt samtalen
+- ```{navnSkole}``` Skolen eleven går på
+
+## Evaluering
+Denne malen benyttes for å dokumentere tilbakemelding fra bedrift til elev
+
+Koder som benyttes:
+
+- ```{dato}``` Dato for produksjon av dokumentet på formatet dd.mm.åååå
+- ```{datoSamtale}``` Dato gjennomført samtale på formatet dd.mm.åååå
+- ```{navnElev}``` Elevens fulle navn
+- ```{navnAvsender}``` Navn på den som har avholdt samtalen
+- ```{navnSkole}``` Skolen eleven går på
+
+## Lokal læreplan
+Denne malen benyttes for å dokumentere elevens lokale læreplan
+
+Koder som benyttes:
+
+- ```{dato}``` Dato for produksjon av dokumentet på formatet dd.mm.åååå
+- ```{datoSamtale}``` Dato gjennomført samtale på formatet dd.mm.åååå
+- ```{navnElev}``` Elevens fulle navn
+- ```{navnAvsender}``` Navn på den som har avholdt samtalen
+- ```{navnSkole}``` Skolen eleven går på
