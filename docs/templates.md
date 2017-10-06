@@ -118,35 +118,76 @@ Internt notat ang manuell distribusjon av kvittering for avslått samtale
 
 Maler for ulike skjemaer tilknyttet YFF.
 
-## Informasjonsskriv
-Denne malen benyttes for å dokumentere avtale mellom bedrift, skole og elev
-
-Koder som benyttes:
-
-- ```{dato}``` Dato for produksjon av dokumentet på formatet dd.mm.åååå
-- ```{datoSamtale}``` Dato gjennomført samtale på formatet dd.mm.åååå
-- ```{navnElev}``` Elevens fulle navn
-- ```{navnAvsender}``` Navn på den som har avholdt samtalen
-- ```{navnSkole}``` Skolen eleven går på
-
 ## Evaluering
 Denne malen benyttes for å dokumentere tilbakemelding fra bedrift til elev
 
 Koder som benyttes:
 
-- ```{dato}``` Dato for produksjon av dokumentet på formatet dd.mm.åååå
-- ```{datoSamtale}``` Dato gjennomført samtale på formatet dd.mm.åååå
 - ```{navnElev}``` Elevens fulle navn
-- ```{navnAvsender}``` Navn på den som har avholdt samtalen
+- ```{fodselsdatoElev}``` Elevens fødselsdato på formatet dd.mm.åååå
+- ```{utdanningprogramElev}``` Elevens utdanningsprogram
 - ```{navnSkole}``` Skolen eleven går på
+- ```{dato}``` Dato for produksjon av dokumentet på formatet dd.mm.åååå
+- ```{navnArbeidssted}``` Navn på bedrift/organisasjon
+- ```{tidsromInformasjonsbrev}``` Tidsrom for utplassering
+- ```{skoleAar}``` Skoleår
+- ```{kompetansemaalElevenslokalelaereplan}``` Elevens kompetansemål
+- ```{fravaerantalldager}``` Antall dager fravær
+- ```{fravaerantalltimer}``` Antall timer fravær
+- ```{navnAvsender}``` Navn på lærer
+- ```{tlfSkole}``` Skolens telefonnummer
+
+## Informasjonsskriv
+Denne malen benyttes for å dokumentere avtale mellom bedrift, skole og elev
+
+Koder som benyttes:
+
+- ```{navnElev}``` Elevens fulle navn
+- ```{navnArbeidssted}``` Navn på arbeidssted
+- ```{navnSkole}``` Skolen eleven går på
+- ```{dato}``` Dato for produksjon av dokumentet på formatet dd.mm.åååå
+- ```{utdanningsprogram}``` Utdanningsprogram for eleven
+- ```{skoleAar}``` Skoleår
+- ```{tidsrom}``` Tidsrom for utplasseringen
+- ```{arbeidstid}``` Arbeidstid under utplassering
+- ```{fodselsdatoElev}``` Elevens fødselsdato på formatet dd.mm.ååå
+- ```{tlfElev}``` Elevens telefonnummer
+- ```{epostElev}``` Elevens e-post
+- ```{navnPaarorende}``` Navn på elevens pårørende
+- ```{tlfPaarorende}``` Telefonnummer for elevens pårørende
+- ```{epostPaarorende}``` E-post for elevens pårørende
+- ```{kontaktpersonArbeidssted}``` Kontaktperson for eleven på utplasseringsstedet
+- ```{tlfKontaktperson}``` Telefonnummer til elevens kontaktperson på utplasseringsstedet
+- ```{epostKontaktperson}``` e-post til elevens kontaktperson på utplasseringsstedet
+- ```{navnLaerer}``` Elevens lærer
+- ```{tlfLaerer}``` Telefonnummer til elevens lærer
+- ```{epostLaerer}``` E-post til elevens lærer
+- ```{navnAvsender}``` Navn på lærer
+- ```{tlfSkole}``` Telefonnummer yil elevens skole
 
 ## Lokal læreplan
 Denne malen benyttes for å dokumentere elevens lokale læreplan
 
 Koder som benyttes:
 
-- ```{dato}``` Dato for produksjon av dokumentet på formatet dd.mm.åååå
-- ```{datoSamtale}``` Dato gjennomført samtale på formatet dd.mm.åååå
-- ```{navnElev}``` Elevens fulle navn
-- ```{navnAvsender}``` Navn på den som har avholdt samtalen
-- ```{navnSkole}``` Skolen eleven går på
+- ```{skole}``` Skolens navn
+- ```{skoleAar}``` Skoleår
+- ```{navnElev}``` Navn elev
+- ```{fødselsnrElev}``` Fødselsnummer elev
+- ```{tlfElev}``` Telefonnummer elev
+- ```{utdanningsprogramElev}``` Elevens utdanningsprogram
+- ```{laereplan}```	 Læreplanen
+- ```{navnLaerer}``` Navn lærer
+- ```{tlfLaerer}``` Telefonnummer lærer
+- ```{navnArbeidssted}``` Navn på arbeidssted
+- ```{tlfArbeidssted}``` Telefonnummer arbeidssted
+- ```{tidsromInformasjonsbrev}``` Tidsrom for utplassering
+- ```{kontaktpersonArbeidssted}``` Kontaktperson arbeidssted
+- ```{tlfArbeidssted}``` Telefonnummer arbeidssted
+- ```{Kompetansemaal}``` Kompetansemål
+- ```{Samarbeid med andre skoler}``` Samarbeid
+- ```{Ungdomsbedrift}``` Ungdomsbedrift
+- ```{Fellesfag}``` Fellesfag
+- ```{navnAvsender}``` Lærerenes navn
+- ```{navnSkole}``` Skolens navn
+- ```{tlfSkole}``` Skolens telefonnummer
