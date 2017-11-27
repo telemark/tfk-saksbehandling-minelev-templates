@@ -118,7 +118,7 @@ Internt notat ang manuell distribusjon av kvittering for avslått samtale
 
 Maler for ulike skjemaer tilknyttet YFF.
 
-## Evaluering
+## Tilbakemelding
 Denne malen benyttes for å dokumentere tilbakemelding fra bedrift til elev
 
 Koder som benyttes:
