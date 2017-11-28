@@ -1,6 +1,6 @@
 {
   "name": "tfk-saksbehandling-minelev-templates",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "Templates for the MinElev ecosystem",
   "license": "MIT",
   "author": {
@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/telemark/tfk-saksbehandling-minelev-templates#readme",
   "devDependencies": {
-    "ava": "0.23.0",
+    "ava": "0.24.0",
     "coveralls": "3.0.0",
     "nsp": "3.1.0",
     "nyc": "11.3.0",
