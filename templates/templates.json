@@ -109,6 +109,17 @@
       "Status": "J"
     }
   },
+  "yff-bekreftelse-bedrift": {
+    "file": "yff-bekreftelse.docx",
+    "archive": {
+      "Category": "Internt notat e-post UTEN oppfølging (X)",
+      "SignOff": false,
+      "AccessCode": "13",
+      "Paragraph": "Offl §13 jfr Fvl §13.1",
+      "NoarkClassificationCode": "B31",
+      "Status": "J"
+    }
+  },
   "yff-lokalplan": {
     "file": "yff-lokalplan.docx",
     "archive": {
