@@ -90,7 +90,7 @@
   "yff-tilbakemelding": {
     "file": "yff-tilbakemelding.docx",
     "archive": {
-      "Category": "Internt notat e-post UTEN oppfølging (X)",
+      "Category": "Dokument ut",
       "SignOff": false,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
@@ -101,7 +101,7 @@
   "yff-bekreftelse": {
     "file": "yff-bekreftelse.docx",
     "archive": {
-      "Category": "Internt notat e-post UTEN oppfølging (X)",
+      "Category": "Dokument ut",
       "SignOff": false,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
@@ -112,7 +112,7 @@
   "yff-bekreftelse-bedrift": {
     "file": "yff-bekreftelse.docx",
     "archive": {
-      "Category": "Internt notat e-post UTEN oppfølging (X)",
+      "Category": "Dokument ut",
       "SignOff": false,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
@@ -123,7 +123,7 @@
   "yff-lokalplan": {
     "file": "yff-lokalplan.docx",
     "archive": {
-      "Category": "Internt notat e-post UTEN oppfølging (X)",
+      "Category": "Dokument ut",
       "SignOff": false,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
