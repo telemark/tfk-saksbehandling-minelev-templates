@@ -1,5 +1,3 @@
-'use strict'
-
 const path = require('path')
 const templates = require('./templates/templates.json')
 
