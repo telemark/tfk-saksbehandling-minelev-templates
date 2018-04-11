@@ -28,12 +28,18 @@ Oversikt over alle malene og koder for de ulike ligger [her](docs/templates.md)
  - foresatte
  - hemmelig-adresse
  - orden
- - samtale
  - ikke-samtale
- 
+ - hemmelig-adresse-ikke-samtale
+ - kontrakt-signert
+ - hemmelig-adresse-kontrakt-signert
+ - samtale
+ - yff-tilbakemelding
+ - yff-bekreftelse
+ - yff-bekreftelse-bedrift
+ - yff-lokalplan
+ - yff-hemmelig-adresse
+
  ```JavaScript
- 'use strict'
- 
  const getTemplatePath = require('tfk-saksbehandling-minelev-templates')
  
  console.log(getTemplatePath('orden'))
@@ -42,8 +48,6 @@ Oversikt over alle malene og koder for de ulike ligger [her](docs/templates.md)
  ```
  
  ```JavaScript
-  'use strict'
-  
   const getTemplateMeta = require('tfk-saksbehandling-minelev-templates')
   
   console.log(getTemplateMeta('orden', true))
