@@ -191,3 +191,28 @@ Koder som benyttes:
 - ```{navnAvsender}``` Lærerenes navn
 - ```{navnSkole}``` Skolens navn
 - ```{tlfSkole}``` Skolens telefonnummer
+
+# Maler - Lærekontrakt
+
+Maler for ulike skjemaer tilknyttet lærekontrakter.
+
+## Kontrakt signert
+
+Denne malen benyttes for følgebrev når lærekontrakt er signert
+
+Koder som benyttes:
+
+- ```{navnElev}``` Elevens fulle navn
+- ```{adresseElev}``` Elevens gateadresse, folkeregistrert bosted
+- ```{postnummerElev}``` Elevens postnummer, folkeregistrert bosted
+- ```{poststedElev}``` Elevens poststed, folkeregistrert bosted
+- ```{dato}``` Dato for produksjon av dokumentet på formatet dd.mm.åååå
+
+## Kontrakt signert - hemmelig adresse
+
+Denne malen benyttes for følgebrev når lærekontrakt er signert og eleven har hemmelig adresse eller man ikke får treff hos folkeregisteret
+
+Koder som benyttes:
+
+- ```{navnElev}``` Elevens fulle navn
+- ```{dato}``` Dato for produksjon av dokumentet på formatet dd.mm.åååå
