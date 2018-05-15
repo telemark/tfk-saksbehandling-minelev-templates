@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.org/telemark/tfk-saksbehandling-minelev-templates.svg?branch=master)](https://travis-ci.org/telemark/tfk-saksbehandling-minelev-templates)
 [![Coverage Status](https://coveralls.io/repos/telemark/tfk-saksbehandling-minelev-templates/badge.svg?branch=master&service=github)](https://coveralls.io/github/telemark/tfk-saksbehandling-minelev-templates?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-saksbehandling-minelev-templates.svg)](https://greenkeeper.io/)
 
 # tfk-saksbehandling-minelev-templates
 
@@ -33,6 +32,7 @@ Oversikt over alle malene og koder for de ulike ligger [her](docs/templates.md)
  - kontrakt-signert
  - hemmelig-adresse-kontrakt-signert
  - samtale
+ - notat
  - yff-tilbakemelding
  - yff-bekreftelse
  - yff-bekreftelse-bedrift

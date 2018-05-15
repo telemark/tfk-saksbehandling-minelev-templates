@@ -109,6 +109,17 @@
       "Status": "J"
     }
   },
+  "notat": {
+    "file": "notat.docx",
+    "archive": {
+      "Category": "Dokument inn",
+      "SignOff": false,
+      "AccessCode": "13",
+      "Paragraph": "Offl §13 jfr Fvl §13.1",
+      "NoarkClassificationCode": "B31",
+      "Status": "J"
+    }
+  },
   "yff-tilbakemelding": {
     "file": "yff-tilbakemelding.docx",
     "archive": {

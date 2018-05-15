@@ -114,6 +114,14 @@ Koder som benyttes:
 ## Hemmelig adresse ikke samtale
 Internt notat ang manuell distribusjon av kvittering for avslått samtale
 
+## Notat
+Denne malen benyttes for å skrive notater til elevmappa.
+
+Koder som benyttes:
+
+- ```{tittel}``` Notatets tittel
+- ```{notat}``` Notatets innhold
+
 # Maler - YFF
 
 Maler for ulike skjemaer tilknyttet YFF.
