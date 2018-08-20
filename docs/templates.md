@@ -131,7 +131,7 @@ Koder som benyttes:
 - ```{dato}``` Dato for notatet
 - ```{innholdNotat}``` Notatets innhold
 - ```{navnElev}``` Elevens navn
-- ```{navnLaerer}``` Lærers navn
+- ```{navnAvsender}``` Lærers navn
 - ```{navnSkole}``` Skolens navn
 
 
