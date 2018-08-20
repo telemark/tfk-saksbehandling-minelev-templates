@@ -12,6 +12,7 @@ Varselmalene er [atferd](../templates/atferd.docx), [fag](../templates/fag.docx)
 Notatmalene er [hemmelig-adresse](../templates/hemmelig-adresse.docx) og [foresatte](../templates/foresatte.docx)
 
 ## Atferd
+
 Denne malen benyttes dersom det er fare for nedsatt karakter i oppførsel.
 
 Koder som benyttes:
@@ -26,6 +27,7 @@ Koder som benyttes:
 - ```{skoleAar}``` Hvilket skoleår
 
 ## Fag
+
 Denne malen benyttes dersom det er fare for nedsatt karakter i ett eller flere fag.
 
 Koder som benyttes:
@@ -41,6 +43,7 @@ Koder som benyttes:
 - ```{skoleAar}``` Hvilket skoleår
 
 ## Orden
+
 Denne malen benyttes dersom det er fare for nedsatt karakter i orden.
 
 Koder som benyttes:
@@ -55,6 +58,7 @@ Koder som benyttes:
 - ```{skoleAar}``` Hvilket skoleår
 
 ## Hemmelig adresse
+
 Denne malen benyttes dersom varselet skal distribueres til elever med hemmelig adresse.
 
 I slike tilfeller vil det produseres og arkiveres et varsel som vanlig, men det sendes et internt notat via sak/arkiv-systemet til elevens skole.
@@ -69,6 +73,7 @@ Koder som benyttes:
 - ```{navnSkole}``` Skolen som skal distribuere varselet
 
 ## Ikke lik folkeregistrert adresse
+
 Denne malen benyttes dersom varselet skal distribueres til foresatte og ingen av de man fant på dsf har lik adresse som eleven.
 
 I slike tilfeller vil det produseres og arkiveres et varsel som vanlig, men det sendes et internt notat via sak/arkiv-systemet til elevens skole.
@@ -88,6 +93,7 @@ Maler for å dokumentere avholdt samtale eller avslått tilbud om samtale.
 I tillegg et internt notat som benyttes ved hemmelig adresse
 
 ## Samtale
+
 Denne malen benyttes for å dokumentere avholdt samtale
 
 Koder som benyttes:
@@ -100,6 +106,7 @@ Koder som benyttes:
 
 
 ## Ikke samtale
+
 Denne malen benyttes for å dokumentere at tilbudt samtale ikke er mottat
 
 Koder som benyttes:
@@ -112,21 +119,28 @@ Koder som benyttes:
 - ```{tlfSkole}``` Skolens telefonnummer
 
 ## Hemmelig adresse ikke samtale
+
 Internt notat ang manuell distribusjon av kvittering for avslått samtale
 
 ## Notat
+
 Denne malen benyttes for å skrive notater til elevmappa.
 
 Koder som benyttes:
 
-- ```{tittel}``` Notatets tittel
-- ```{notat}``` Notatets innhold
+- ```{dato}``` Dato for notatet
+- ```{innholdNotat}``` Notatets innhold
+- ```{navnElev}``` Elevens navn
+- ```{navnLaerer}``` Lærers navn
+- ```{navnSkole}``` Skolens navn
+
 
 # Maler - YFF
 
 Maler for ulike skjemaer tilknyttet YFF.
 
 ## Tilbakemelding
+
 Denne malen benyttes for å dokumentere tilbakemelding fra bedrift til elev
 
 Koder som benyttes:
@@ -146,6 +160,7 @@ Koder som benyttes:
 - ```{tlfSkole}``` Skolens telefonnummer
 
 ## Informasjonsskriv
+
 Denne malen benyttes for å dokumentere avtale mellom bedrift, skole og elev
 
 Koder som benyttes:
@@ -174,6 +189,7 @@ Koder som benyttes:
 - ```{tlfSkole}``` Telefonnummer yil elevens skole
 
 ## Lokal læreplan
+
 Denne malen benyttes for å dokumentere elevens lokale læreplan
 
 Koder som benyttes:
