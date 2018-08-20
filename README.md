@@ -72,5 +72,3 @@ Oversikt over alle malene og koder for de ulike ligger [her](docs/templates.md)
  ## Lisens
  
  [MIT](LICENSE)
- 
- ![Robohash image of tfk-saksbehandling-minelev-templates](https://robots.kebabstudios.party/tfk-saksbehandling-minelev-templates.png "Robohash image of tfk-saksbehandling-minelev-templates")
