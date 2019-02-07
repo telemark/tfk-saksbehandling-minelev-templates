@@ -187,6 +187,7 @@ Koder som benyttes:
 - ```{epostLaerer}``` E-post til elevens lærer
 - ```{navnAvsender}``` Navn på lærer
 - ```{tlfSkole}``` Telefonnummer yil elevens skole
+- ```{kopiTilEpost}``` Viser om noen har fått dokumentet i kopi pr e-post
 
 ## Lokal læreplan
 
